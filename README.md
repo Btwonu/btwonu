@@ -50,7 +50,7 @@
 <p>
 	<img
 		align="center"
-		src="https://github-readme-streak-stats.herokuapp.com/?user=btwonu&"
+		src="https://github-readme-stats.vercel.app/api/top-langs?username=btwonu&show_icons=true&locale=en&layout=compact"
 		alt="btwonu"
 	/>
 </p>
@@ -58,9 +58,7 @@
 <p>
 	<img
 		align="center"
-		src="https://github-readme-stats.vercel.app/api/top-langs?username=btwonu&show_icons=true&locale=en&layout=compact"
+		src="https://github-readme-streak-stats.herokuapp.com/?user=btwonu&"
 		alt="btwonu"
 	/>
 </p>
-
-
