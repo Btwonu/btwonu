@@ -21,7 +21,7 @@
 
 <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
 		<img
-			src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nest-js-icon.png"
+			src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nest_js.png"
 			alt="nestjs"
 			width="40"
 			height="40"
